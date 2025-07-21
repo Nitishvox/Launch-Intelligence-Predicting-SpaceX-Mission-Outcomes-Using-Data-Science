@@ -3,8 +3,7 @@
 **Mission outcome prediction using SpaceX launch data.**
 
 ---
-
-![Rocket Launch](https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif)
+![Falcon 9 Launch](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 ## Overview
 
