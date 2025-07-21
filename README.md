@@ -3,7 +3,8 @@
 **Mission outcome prediction using SpaceX launch data.**
 
 ---
-![Falcon 9 Launch](hhttps://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJjYmk5cWR3a2p6bDk5M3RxMWgyNWR1OGUxbjN2N3RlcjdweHd3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4gSs3V0Q7qOtKU/giphy.gif)
+![Falcon 9 Launch](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJjYmk5cWR3a2p6bDk5M3RxMWgyNWR1OGUxbjN2N3RlcjdweHd3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4gSs3V0Q7qOtKU/giphy.gif)
+
 
 ## Overview
 
